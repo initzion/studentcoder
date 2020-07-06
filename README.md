@@ -32,11 +32,11 @@ This data is presented in a visual format that provides higher readability and e
 **Installation via `requirements.txt`**:
 
 ```shell
-$ https://github.com/initzion/studentcoder.git
-$ cd studentcoder
+$ https://github.com/initzion/sentimentZION
+$ cd sentimentZION
 $ python -m venv myenv
 $ source myenv/bin/activate
 $ pip install -r requirements.txt
-$ python app.py
+$ python Page.py
 
 -----
